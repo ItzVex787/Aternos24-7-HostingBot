@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "pro_tection15.aternos.me",
     "port": 41000,
-    "version": "",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
